@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "what is my name?",
+      "answer": "my name is shanika"
+    },
+    {
+      "question": "How many legs dog has?",
+      "answer": "dog has 4 legs."
+    },
+    {
+      "question": "hi",
+      "answer": "hi.dr"
+    }
+  ]
+}
